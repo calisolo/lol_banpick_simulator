@@ -4,3 +4,10 @@ crawl_test.ipynb
 crawl.ipynb
 upload_test.ipynb
 util_functions.py
+
+# Data directories
+match_ids/
+user_ids/
+
+# Environment variables
+.env
